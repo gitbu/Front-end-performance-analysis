@@ -25,5 +25,7 @@ now: 返回当前网页从performance.timing.navagationStart 当当前事件之�
 
 mask: 用于为相应的视点做标记
 
+measure(name, startName, endName) 测量耗时
+
 getEntries: 以数组的形式返回请求的时间统计信息
 
